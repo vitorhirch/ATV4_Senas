@@ -1,5 +1,5 @@
 ## Gerador de Jogos da Sena
-## Ojetivo
+## Objetivo
 <p justify text> Aplicação web simples para criação, validação e exibição de jogos da Mega-Sena,</p>
 
 ## Sobre o projeto
