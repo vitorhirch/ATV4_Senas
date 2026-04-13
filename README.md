@@ -3,7 +3,8 @@
 <p justify text> Aplicação web simples para criação, validação e exibição de jogos da Mega-Sena,</p>
 
 ## Sobre o projeto
-<p justify text> Este projeto teve como objetivo a pratica de conceitos fundamentais de desenvolvimento web, incluindo: </p>
+Este projeto teve como objetivo a pratica de conceitos fundamentais de desenvolvimento web, incluindo:
+
 - Manipulação de DOM com Javascript
 - Validação de dados de entrada
 - Estruturação de lógica de negócio
